@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "/sota-website.html"
+  status = 200
